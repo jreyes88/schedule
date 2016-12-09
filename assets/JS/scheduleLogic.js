@@ -1,5 +1,5 @@
 var view = $("#tslshow");
-var move = "100px";
+var move = "120px";
 var sliderLimit = -750;
 
 $("#rightArrow").click(function(){
